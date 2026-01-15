@@ -7,10 +7,7 @@
 ## 📌 Overview
 This project utilizes an **Artificial Neural Network (ANN)** to classify breast cancer tumors as Malignant or Benign. By leveraging deep learning, the model identifies patterns in clinical features to provide high-accuracy diagnostic support.
 
-## 📊 Dataset
-The project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset**.
-- **Features:** 30 (Radius, Texture, Smoothness, etc.)
-- **Target:** Diagnosis (Malignant/Benign)
+
 
 ## 🛠️ Workflow
 
